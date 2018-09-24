@@ -9,6 +9,6 @@ Zhihu-Problems
 * Window10操作系统
 * Anaconda3
 * 第三方库
-  * zhihu-oauth
-  * jieba
-  * wordcloud
+  * [zhihu-oauth](https://github.com/7sDream/zhihu-oauth)(知乎API)
+  * [jieba](https://github.com/fxsjy/jieba)(中文分词)
+  * [wordcloud](https://github.com/amueller/word_cloud)(生成词云)
